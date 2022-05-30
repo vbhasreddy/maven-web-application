@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.233.229.201:9000</sonar.host.url>
+		<sonar.host.url>http://13.127.158.152:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>shalini</sonar.password>
              
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Niharika Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.236.45:9980/niharika/repository/wallmart-release/</url>
+	      <url>http://43.204.147.105:9980/niharika/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Niharika Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.236.45:9980/niharika/repository/wallmart-snapshot/</url>
+	      <url>http://43.204.147.105:9980/niharika/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
